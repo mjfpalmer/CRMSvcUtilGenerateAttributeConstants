@@ -1,0 +1,4 @@
+bin
+obj
+*.suo
+/GenerateAttributeConstants/GenerateAttributeConstants.csproj.user
